@@ -1,0 +1,126 @@
+@media screen and (max-width: 600px){
+    .head{
+        display: none;
+    }
+    .head2{
+        display: none;
+    }
+    .text{
+        margin: auto;
+    }
+    .searchbar{
+        /* display: none; */
+    }
+    .b{
+        display: none;
+    }
+    .h1color{
+        margin: auto;
+    }
+    .search{
+        width: 80%;
+        margin: auto;
+    }
+    .a-names{
+        display: none;
+    }
+    .main2{
+        height: 50%;
+        width: 100%;
+        background-size: contain;
+    }
+    .banner{
+        background-color: rgb(255,255,255,0.7);
+        padding: 10%;
+        width: 100%;
+        height: 100%;
+    }
+    .banner p{
+        font-size: 1em;
+    }
+    .banner h1{
+        font-size: 1.5em;
+        font-weight: 800;
+    }
+    .starting strong{
+        font-size: 25px;
+        font-weight: 800;
+    }
+    .one_small{
+        width: 40%;
+    }
+    .top_text{
+        font-size: 10px;
+        /* width: 30em; */
+    }
+
+    .seprate{
+        width: 10em;
+    }
+    .seprate p{
+        font-size: 10px;
+        padding: 2px;
+        font-weight: 800;
+    }
+    .top_text a{
+        position: relative;
+        right: 35px;
+        }
+        .long_container{
+            display: none;
+        }
+        .best_seller1{
+            display: none;
+        }
+        .one_block_main{
+            width: 100%;
+        }
+        .long_container_main{
+            width: 40%;
+        }
+        .main_center2{
+            width: 67%;
+        }
+        .alltext p {
+            margin-top: 4px;
+        }
+        .product_image {
+            margin: 0px;
+        }
+        .shampoo_sec{
+            height: 35%;
+            width: 70%;
+            border: 1px solid red;
+            flex-wrap: wrap;
+        }
+        .shampoo_div{
+            display: block;
+        }
+
+
+        .shampoo_image img{
+            width:100%;
+        }
+        .shampoo_div{
+            /* width: 30%; */
+            /* font-size: 10px; */
+            margin: 1%;
+            border: 1px solid rgb(0, 8, 255);
+        }
+        .shampoo_icon{
+            width: 100%;            
+            /* height: 100%;             */
+
+        }
+        .shampoo_icon h5{
+            font-size: 16px;
+        }
+        .progress_bar .pink{
+            font-size: 1px;
+             
+        }
+        .main_wrapper{
+            margin-right: 50px;
+        }
+
+}
